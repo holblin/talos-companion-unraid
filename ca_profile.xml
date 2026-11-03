@@ -1,0 +1,5 @@
+<CommunityApplications>
+  <Profile>Unofficial Unraid templates for Talos Companion and Sidero Labs Omni. Includes installation guides and a placeholder-only Omni configuration example. Report template problems through this repository's issue tracker.</Profile>
+  <Icon>https://raw.githubusercontent.com/holblin/talos-companion-unraid/main/icon.svg</Icon>
+  <WebPage>https://github.com/holblin/talos-companion-unraid</WebPage>
+</CommunityApplications>
